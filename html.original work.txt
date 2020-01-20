@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>KJ's Newbie Original Work</title>
+    </head>
+    <body>
+        <font face="times new roman">
+        <p>Dragonfruit is underrated</p>
+        <font face="arial">
+        <p>It is my dream to go to Italy>
+        <a href="https://www.denverpost.com/wp-content/uploads/2018/01/day_in_pictures_010818_001.jpg?w=620">
+            <img src="https://www.denverpost.com/wp-content/uploads/2018/01/day_in_pictures_010818_001.jpg?w=620" title="cool pic" style="width:50px;height:50px;margin:5px">
+        </a>
+        <a href="https://i.ytimg.com/vi/plna9n6Srnc/maxresdefault.jpg">
+            <img src="https://i.ytimg.com/vi/plna9n6Srnc/maxresdefault.jpg" title="another cool pic" style="width:50px;height:50px;margin:5px"
+        </a>    
+    </body>
+</html>
